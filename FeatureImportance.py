@@ -15,7 +15,7 @@ from sklearn.model_selection import cross_val_score
 
 
 import pandas as pd
-df = pd.read_csv('C:/Users/AJ00635713/Downloads/DatasetsGear7.csv')
+df = pd.read_csv('C:/Users/Downloads/DatasetsGear7.csv')
 
 
 # In[3]:
